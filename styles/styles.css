@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://images.pexels.com/photos/27582996/pexels-photo-27582996/free-photo-of-a-statue-of-arco-da-rua-augusto-in-lisbon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+}
+#img-1{
+    /*Circle*/
+    
+    border-radius: 50%;
+}
+
+#id-1{
+    text-transform: capitalize;
+    text-shadow: 6px 5px 5px blueviolet;
+}
+#id-2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#id-3{
+    font-weight: 900;
+    color:olive;
+}
+.grp-1{
+    font-family: fantasy;
+    border: 5px groove orangered;
+}
+.list-1{
+    list-style-type: lower-roman;
+    color:fuchsia
+}
+.rows{
+    border-bottom: 10px solid blue;
+}
+.column{
+    border-right: 1px solid green;
+    padding: 5px 7px 5px 7px;
+}
+.table1{
+ margin: 5% 20% 5% 20%;
+}
